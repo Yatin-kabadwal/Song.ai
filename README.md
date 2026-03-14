@@ -6,7 +6,6 @@
 
 <br/>
 
-![SoundWave AI Banner](https://via.placeholder.com/900x300/080a12/00e5a0?text=SoundWave+AI+%E2%80%94+Free+Forever)
 
 **SoundWave AI** is a fully browser-based music and voice generation platform inspired by Suno AI — built entirely in a single HTML file with zero backend, zero API keys, and zero ongoing costs. Your users get a professional audio experience for free, forever.
 
